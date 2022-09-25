@@ -1,2 +1,5 @@
-data/*
+django_project/data/*
+django_project/bin/*
+django_project/lib/*
+django_project/api_ecommert/api_ecommert/__pycache__
 .env
